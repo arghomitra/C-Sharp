@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSPS _wordnest", "DSPS _wordnest\DSPS _wordnest.csproj", "{71CA7016-9FEB-403A-AE4F-B92C2C8BFC9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71CA7016-9FEB-403A-AE4F-B92C2C8BFC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CA7016-9FEB-403A-AE4F-B92C2C8BFC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CA7016-9FEB-403A-AE4F-B92C2C8BFC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CA7016-9FEB-403A-AE4F-B92C2C8BFC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD3D4DF-9EB1-480D-8F44-D421E161AD4A}
+	EndGlobalSection
+EndGlobal
